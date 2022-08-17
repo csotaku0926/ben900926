@@ -1,5 +1,3 @@
 # benson liu
 
-## sleep
-
-## ina~
+## learn to fail or fail to learn
