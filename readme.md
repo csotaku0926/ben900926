@@ -1,8 +1,8 @@
 # benson liu
 
 ❤️ Introduction
-NYCU 3rd grade CS student
-favorite idol is Ina
+ - NYCU 3rd grade CS student
+ - favorite idol is Ina
 
 📚 Knowledge
  - c/c++ (network programming)
