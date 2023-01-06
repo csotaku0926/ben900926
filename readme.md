@@ -5,7 +5,9 @@ NYCU 3rd grade CS student
 favorite idol is Ina
 
 📚 Knowledge
-c++ (network programming), Python (ML project), Javascript (Website-based rhythm game)
+ - c/c++ (network programming)
+ - Python (ML project, 2022-2023 NLP project)
+ - Javascript (Website-based rhythm game)
 
 🙏 Values
  - Consistency
