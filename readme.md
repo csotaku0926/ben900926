@@ -14,6 +14,4 @@
 
 💡 Projects
  - [Tabular ML Challenge in Kaggle](https://github.com/ben900926/Intro_to_ML_final_project)
-
-💻 Computer Security
-- 
+ - [Pwnable.tw Writeups](https://github.com/ben900926/Pwnable.tw_writeup) 
